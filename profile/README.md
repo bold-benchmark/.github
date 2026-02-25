@@ -6,8 +6,8 @@ This GitHub organisation is home to BOLD: A Simulation Framework for Dynamic Lin
 
 ### Serving Static Linked Data and Simulating Dynamic Linked Data
 
-Start with the [bold-server](bold-server) repository.
+Start with the [bold-server](https://github.com/bold-benchmark/bold-server) repository.
 
 ### Benchmarking using the BOLD tasks
 
-Start with the [bold-agents](bold-agents) repository.
+Start with the [bold-agents](https://github.com/bold-benchmark/bold-agents) repository.
